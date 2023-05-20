@@ -6,6 +6,8 @@ setup(
     author='Toghrul Mirzayev',
     author_email='togrul.mirzoev@gmail.com',
     description='Pylenius is a framework over Selenium with custom runner to simplify UI Test Automation',
+    long_description='Pylenius is a framework over Selenium with custom runner to simplify UI Test Automation',
+    long_description_content_type='text/markdown',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers, Testing',

@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
-        'Intended Audience :: Developers, Testing',
+        'Intended Audience :: Testing',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.7',

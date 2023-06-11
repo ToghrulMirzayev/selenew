@@ -1,3 +1,4 @@
+![SeleNew Logo](images/selenew.JPG)
 # SeleNew
 SeleNew is a framework over Selenium to simplify UI Test Automation. \
 SeleNew is a beautified and simplified approach to make your work easy and much faster. 

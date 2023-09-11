@@ -1,3 +1,5 @@
+![PyPI - Downloads](https://img.shields.io/pypi/dm/selenew)
+
 ![SeleNew Logo](images/selenew.JPG)
 # SeleNew
 SeleNew is a framework over Selenium to simplify UI Test Automation. \

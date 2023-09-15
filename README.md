@@ -1,6 +1,6 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/selenew)
 
-![SeleNew Logo](images/selenew.JPG)
+![SeleNew Logo](images/selenew2.JPG)
 # SeleNew
 SeleNew is a framework over Selenium to simplify UI Test Automation. \
 SeleNew is a beautified and simplified approach to make your work easy and much faster. 
@@ -54,18 +54,18 @@ selenew = SeleNew(browser, go_around=5)
 ```
 
 ### `timeout` functionality
-Define as many times as you like, or use the default one. Default value: 3
+Define as many seconds as you like, or use the default one. Default value: 3
 ```
 selenew.click(".login-button", timeout=5)
 ```
 
 ### `element_state` functionality
-Use one of supported states. Default value: "single_visible" \
+Use one of supported states. Default value: `single_visible` \
 All supported states:
-* "single_visible"
-* "clickable"
-* "multiple_visible"
-* "invisible"
+* `single_visible`
+* `clickable`
+* `multiple_visible`
+* `invisible`
 ```
 selenew.click(".login-button", element_state="clickable")
 ```
